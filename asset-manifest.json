@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/this-website-does-not-exist/static/css/main.5f361e03.chunk.css",
+    "main.js": "/this-website-does-not-exist/static/js/main.ce221650.chunk.js",
+    "main.js.map": "/this-website-does-not-exist/static/js/main.ce221650.chunk.js.map",
+    "runtime-main.js": "/this-website-does-not-exist/static/js/runtime-main.58517a48.js",
+    "runtime-main.js.map": "/this-website-does-not-exist/static/js/runtime-main.58517a48.js.map",
+    "static/js/2.5f781e85.chunk.js": "/this-website-does-not-exist/static/js/2.5f781e85.chunk.js",
+    "static/js/2.5f781e85.chunk.js.map": "/this-website-does-not-exist/static/js/2.5f781e85.chunk.js.map",
+    "index.html": "/this-website-does-not-exist/index.html",
+    "precache-manifest.ccd4e486ecf1ee89315949f75cd152f8.js": "/this-website-does-not-exist/precache-manifest.ccd4e486ecf1ee89315949f75cd152f8.js",
+    "service-worker.js": "/this-website-does-not-exist/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/this-website-does-not-exist/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5f781e85.chunk.js.LICENSE.txt": "/this-website-does-not-exist/static/js/2.5f781e85.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/this-website-does-not-exist/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58517a48.js",
+    "static/js/2.5f781e85.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ce221650.chunk.js"
+  ]
+}
